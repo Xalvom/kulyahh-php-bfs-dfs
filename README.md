@@ -1,2 +1,4 @@
-# kulyahh-php-bfs-dfs
-bfs dan dfs
+# Kulyah: BFS dan DFS PHP
+
+Demi kelangsungan kelancaran Nilai dalam Ujian
+Sumber berada di github. hehe
